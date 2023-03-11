@@ -3,7 +3,9 @@ Link generated using microsoft azure technologies : https://kind-water-0a35af410
 
 Sample images:
 ![screencapture-kind-water-0a35af410-2-azurestaticapps-net-about-html-2023-03-11-20_49_21](https://user-images.githubusercontent.com/106956005/224492760-e9bb7cf6-c76c-4a04-965e-134c4aa447ca.png)
+
 ![screencapture-kind-water-0a35af410-2-azurestaticapps-net-services-html-2023-03-11-20_49_54](https://user-images.githubusercontent.com/106956005/224492768-1fa21f85-675d-437a-8b1a-f45989a41baf.png)
+
 ![screencapture-kind-water-0a35af410-2-azurestaticapps-net-contact-html-2023-03-11-20_50_30](https://user-images.githubusercontent.com/106956005/224492775-3bc90e3f-299a-4634-ab68-5c58210f0f6f.png)
 
 Project description:
