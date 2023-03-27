@@ -18,4 +18,4 @@ The problem that we are addressing with our adventure sports project is the lack
 My project offers a clear solution to the problem of limited options for individuals seeking adventure and a clear opportunity for individuals to engage in exciting activities that promote physical and mental wellbeing.
 The project's purpose and basic functionality are mapped to the problem statement/opportunity area. The purpose of the project is to address the problem of limited options for individuals seeking adventurous activities and to promote physical fitness, mental wellbeing, and an appreciation for nature and the outdoors.
 
-Project demo link: 
+Project demo link: aryan105.github.io/FRT-project-A-World/
