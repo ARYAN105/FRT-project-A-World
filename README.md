@@ -2,6 +2,8 @@
 Azure static web app:
 Link generated using microsoft azure technologies : https://kind-water-0a35af410.2.azurestaticapps.net/
 
+![image](https://user-images.githubusercontent.com/106956005/228042074-f5b8a487-1339-4a6f-ae89-eab1f9c5793b.png)
+
 Azure front door:
 ![Create a Front Door profile - Microsoft Azure - Google Chrome 28-03-2023 12 26 07 AM](https://user-images.githubusercontent.com/106956005/228040221-7041d6f1-f8cf-4698-9890-fc5fe9779c6b.png)
 
