@@ -5,9 +5,21 @@ Link generated using microsoft azure technologies : https://kind-water-0a35af410
 ![image](https://user-images.githubusercontent.com/106956005/228042074-f5b8a487-1339-4a6f-ae89-eab1f9c5793b.png)
 
 
-Azure front door:
+Web application firewall(WAF) with Azure front door:
 
-![Create a Front Door profile - Microsoft Azure - Google Chrome 28-03-2023 12 26 07 AM](https://user-images.githubusercontent.com/106956005/228040221-7041d6f1-f8cf-4698-9890-fc5fe9779c6b.png)
+1. Image with no firewall.
+![image](https://user-images.githubusercontent.com/106956005/230835762-43b9577e-ed94-4fc5-90b0-767997ead184.png)
+
+Here attackers can make changes in website as no firewall is added
+
+
+2. Image when firewall is added.
+![image](https://user-images.githubusercontent.com/106956005/230835840-7c884cbd-7a76-43a9-84a9-7122e5029098.png)
+
+Website responds by giving bad request i.e error 403 after malicious activity is done.
+
+Azure front door endpoint link : AryanEndpoint-egcvfyftcfcmh6gk.z01.azurefd.net
+ 
 
 Sample images:
 ![screencapture-kind-water-0a35af410-2-azurestaticapps-net-about-html-2023-03-11-20_49_21](https://user-images.githubusercontent.com/106956005/224492760-e9bb7cf6-c76c-4a04-965e-134c4aa447ca.png)
