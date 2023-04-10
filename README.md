@@ -8,17 +8,19 @@ Link generated using microsoft azure technologies : https://kind-water-0a35af410
 Web application firewall(WAF) with Azure front door:
 
 1. Image with no firewall.
+
 ![image](https://user-images.githubusercontent.com/106956005/230835762-43b9577e-ed94-4fc5-90b0-767997ead184.png)
 
 Here attackers can make changes in website as no firewall is added
 
 
 2. Image when firewall is added.
+
 ![image](https://user-images.githubusercontent.com/106956005/230835840-7c884cbd-7a76-43a9-84a9-7122e5029098.png)
 
 Website responds by giving bad request i.e error 403 after malicious activity is done.
 
-Azure front door endpoint link : AryanEndpoint-egcvfyftcfcmh6gk.z01.azurefd.net
+Azure front door endpoint link : https://aryanendpoint-egcvfyftcfcmh6gk.z01.azurefd.net/
  
 
 Sample images:
