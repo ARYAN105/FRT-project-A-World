@@ -19,6 +19,7 @@ Here attackers can make changes in website as no firewall is added
 ![image](https://user-images.githubusercontent.com/106956005/230835840-7c884cbd-7a76-43a9-84a9-7122e5029098.png)
 
 Website responds by giving bad request i.e error 403 after malicious activity is done.
+Here adding "<h1>asdf</h1>" is the malicious activity
 
 Azure front door endpoint link : https://aryanendpoint-egcvfyftcfcmh6gk.z01.azurefd.net/
  
