@@ -11,6 +11,7 @@ Web application firewall(WAF) with Azure front door:
 
 ![image](https://user-images.githubusercontent.com/106956005/230835762-43b9577e-ed94-4fc5-90b0-767997ead184.png)
 
+here i have added h1asdf/h1 and pressed enter key, in this way hackers can make changes in my website which can be avoided by using web application firewall
 Here attackers can make changes in website as no firewall is added
 
 
@@ -18,6 +19,7 @@ Here attackers can make changes in website as no firewall is added
 
 ![image](https://user-images.githubusercontent.com/106956005/230835840-7c884cbd-7a76-43a9-84a9-7122e5029098.png)
 
+After application of firewall when changes in the link is done it gives bad request and doesn't allow further procedure.
 Website responds by giving bad request i.e error 403 after malicious activity is done.
 Here adding adding "asdf" in "h1 tag" is the malicious activity
 
